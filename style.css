@@ -1,0 +1,102 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+header{
+  background-color: #2571ea;
+  padding-top: 6px;
+}
+
+h1{
+  margin-left: 40%;
+  display: inline;
+  color: aliceblue;
+}
+
+.clear-all{
+  margin-left: 20%;
+  display: inline;
+  width: 14%; 
+  margin-bottom: 10px;
+  background: #629cf7;
+  border: none;  
+  padding: 5px;
+  
+  color: aliceblue;
+}
+
+.add-meal{
+  border: 1px solid #cbcfd6;
+  margin-top: 5px;
+  padding: 1%;
+  width: 80%;
+  margin-left: 9%;
+}
+
+.title1{
+  font-size: 15px;
+}
+
+.meal-in{
+  float: left;
+  margin-right: 3%;
+  width: 50%;
+}
+
+.input-space{
+  border: none;
+  border-bottom: 1px solid #cbcfd6;
+  width: 40%;
+  margin-bottom: 7px;
+}
+
+.add-meal p{
+  margin-bottom: 3px;
+  font-size: 13px;
+}
+
+.button1{
+  border:none;
+  background-color: #2571ea;
+  color: aliceblue;
+  width: 20%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.calories{
+  margin-top: 5px;
+  text-align: center;
+  font-size: 17px;
+}
+
+.item-list{
+  border: 1px solid #cbcfd6;
+  margin: 2%;
+}
+
+.item-list ul{
+  list-style-type: none;
+  margin-left: 1%;
+  margin-top:5px;
+}
+
+.item-list li{
+  margin-top: 5px;
+}
+
+.item-list li span{
+  font-size: 13px;
+  margin-left: 2%;
+}
+
+.item-list li a{
+  float: right;
+  margin-right: 5%;
+}
